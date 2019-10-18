@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"enemy","json":{"3001":{"id":"3001","prefab":"uncle","HP":20,"speed":100},"3002":{"id":"3002","prefab":"boy","HP":15,"speed":150},"3101":{"id":"3101","prefab":"panda","HP":60,"speed":50}}}
