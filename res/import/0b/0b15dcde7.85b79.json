@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"role_boy_s2","texture":"1f907dc9a","rect":[1363,1524,46,80],"offset":[1,-31],"originalSize":[80,150],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"role_boy_s1","texture":"1f907dc9a","rect":[1142,1053,44,80],"offset":[1,-31],"originalSize":[80,150],"capInsets":[0,0,0,0]}}]
