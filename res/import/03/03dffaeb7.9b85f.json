@@ -1,1 +1,0 @@
-[{"__type__":"cc.SpriteFrame","content":{"name":"role_panda_l1","texture":"1f907dc9a","rect":[403,1251,76,120],"offset":[0,-11],"originalSize":[80,150],"rotated":1,"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"role_panda_l2","texture":"1f907dc9a","rect":[768,927,78,120],"offset":[0,-13],"originalSize":[80,150],"capInsets":[0,0,0,0]}}]

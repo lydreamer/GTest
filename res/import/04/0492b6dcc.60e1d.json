@@ -1,1 +1,0 @@
-[{"__type__":"cc.SpriteFrame","content":{"name":"role_uncle_m2","texture":"1f907dc9a","rect":[1277,1317,66,128],"offset":[1,-6],"originalSize":[80,150],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"role_uncle_m1","texture":"1f907dc9a","rect":[1206,1139,66,132],"offset":[1,-7],"originalSize":[80,150],"rotated":1,"capInsets":[0,0,0,0]}}]
